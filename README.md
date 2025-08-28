@@ -211,4 +211,4 @@ If you have questions or need help:
 ---
 
 Made with ❤️ by Adrian Statescu
-# FancyFileBrowser
+
